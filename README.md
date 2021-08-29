@@ -1,2 +1,2 @@
-# esp32-idf-c-plus-plus
-esp32 espressif idf basic example using c++
+# espressif-idf-c-plus-plus
+espressif idf basic boilerplate in c++
